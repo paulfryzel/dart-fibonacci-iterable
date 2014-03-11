@@ -1,0 +1,8 @@
+name: fibonacci_iterable
+version: 1.0.0
+author: Paul Fryzel <paul.fryzel@gmail.com>
+description: A Fibonacci number iterable.
+homepage: https://github.com/paulfryzel/dart-fibonacci-iterable
+dependencies:
+  fibonacci_iterator: '>=2.0.0 <3.0.0'
+  unittest: '>=0.10.0 <0.11.0'
